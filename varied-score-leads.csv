@@ -1,0 +1,21 @@
+company_name,contact_name,email,phone,website,industry,notes,website_quality,has_booking_system,has_clear_pricing,content_freshness,review_count,average_rating,years_in_business,pricing_signals,customer_volume_indicators,location,target_fit
+Premium Real Estate Group,Sarah Johnson,sarah@premiumrealestate.com,555-0101,https://premiumrealestate.com,real_estate,Luxury real estate firm with strong online presence,9,true,true,9,120,4.8,12,9,8,Los Angeles CA,10
+Startup Marketing Co,Mike Chen,mike@startupmarketing.co,555-0102,https://startupmarketing.co,marketing_agency,New agency with basic website,4,false,false,3,5,3.2,1,3,2,Austin TX,8
+Elite Financial Advisors,Jennifer Davis,jen@elitefinancial.com,555-0103,https://elitefinancial.com,financial_services,Established wealth management firm,8,true,true,7,85,4.6,15,8,9,New York NY,10
+Bob's Local Plumbing,Bob Martinez,bob@bobsplumbing.net,555-0104,https://bobsplumbing.net,local_services,Small plumbing business with outdated site,3,false,true,2,12,4.1,8,4,3,Phoenix AZ,7
+Success Life Coaching,Amanda Wilson,amanda@successcoaching.com,555-0105,https://successcoaching.com,coaching_consulting,Mid-tier coaching practice,6,true,false,5,28,4.3,4,5,4,Denver CO,9
+Metro Real Estate,Tom Anderson,tom@metrorealestate.com,555-0106,https://metrorealestate.com,real_estate,Average real estate agency,5,false,true,4,35,3.9,6,4,5,Chicago IL,8
+Digital Growth Agency,Lisa Park,lisa@digitalgrowth.com,555-0107,https://digitalgrowth.com,marketing_agency,High-performing digital agency,9,true,true,8,95,4.7,7,9,9,San Francisco CA,10
+Community Bank Services,Robert Kim,robert@communitybank.com,555-0108,https://communitybank.com,financial_services,Small community bank,7,false,true,6,45,4.2,25,6,7,Nashville TN,9
+Quick Fix Services,Maria Rodriguez,maria@quickfix.com,555-0109,https://quickfix.com,local_services,Handyman service with poor online presence,2,false,false,1,3,2.8,2,2,1,Miami FL,6
+Executive Coaching Pro,David Thompson,david@execcoaching.com,555-0110,https://execcoaching.com,coaching_consulting,Premium executive coaching,8,true,true,8,67,4.9,10,8,7,Seattle WA,10
+Neighborhood Realty,Susan Lee,susan@neighborhoodrealty.com,555-0111,https://neighborhoodrealty.com,real_estate,Small residential real estate,4,false,false,3,18,3.5,3,3,2,Portland OR,7
+Creative Marketing Hub,Alex Johnson,alex@creativehub.com,555-0112,https://creativehub.com,marketing_agency,Creative agency with good reputation,7,true,false,6,52,4.4,5,6,6,Atlanta GA,9
+Investment Partners LLC,Rachel Green,rachel@investmentpartners.com,555-0113,https://investmentpartners.com,financial_services,Mid-size investment firm,6,false,true,5,38,4.0,8,5,6,Boston MA,8
+All-Pro Services,Carlos Mendez,carlos@allproservices.com,555-0114,https://allproservices.com,local_services,Multi-service contractor,5,true,true,4,42,4.2,12,5,6,Dallas TX,8
+Peak Performance Coaching,Nicole Brown,nicole@peakcoaching.com,555-0115,https://peakcoaching.com,coaching_consulting,Struggling coaching practice,3,false,false,2,8,3.1,1,2,2,Las Vegas NV,6
+Luxury Homes Realty,Michael Foster,michael@luxuryhomes.com,555-0116,https://luxuryhomes.com,real_estate,High-end real estate with excellent site,10,true,true,10,150,4.9,18,10,10,Beverly Hills CA,10
+Budget Marketing Solutions,Jenny Wang,jenny@budgetmarketing.com,555-0117,https://budgetmarketing.com,marketing_agency,Low-cost marketing services,3,false,true,2,15,3.3,2,2,3,Cleveland OH,5
+Wealth Management Pro,Steven Clark,steven@wealthpro.com,555-0118,https://wealthpro.com,financial_services,Professional wealth management,8,true,true,7,78,4.5,12,7,8,Houston TX,9
+Emergency Repair Co,Linda Garcia,linda@emergencyrepair.com,555-0119,https://emergencyrepair.com,local_services,24/7 emergency services,6,true,true,5,55,4.3,9,6,7,San Diego CA,9
+Business Growth Coaching,Mark Taylor,mark@businessgrowth.com,555-0120,https://businessgrowth.com,coaching_consulting,Established business coaching,7,true,false,6,41,4.1,6,6,5,Minneapolis MN,8

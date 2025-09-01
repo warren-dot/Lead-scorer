@@ -1,0 +1,21 @@
+company_name,contact_name,email,phone,website,industry,notes,website_quality,has_booking_system,has_clear_pricing,content_freshness,review_count,average_rating,years_in_business,pricing_signals,customer_volume_indicators,location,target_fit
+Sunset Realty Group,Sarah Johnson,sarah@sunsetrealty.com,(555) 123-4567,https://sunsetrealty.com,real_estate,Luxury residential properties in Austin area,9,true,true,8,127,4.8,12,9,8,Austin TX,9
+Digital Marketing Pro,Mike Chen,mike@digitalmarketingpro.com,(555) 234-5678,https://digitalmarketingpro.com,agency,Full-service digital marketing for tech startups,8,true,false,7,43,4.2,6,7,7,San Francisco CA,8
+Life Coach Academy,Jennifer Williams,jen@lifecoachacademy.com,(555) 345-6789,https://lifecoachacademy.com,coaching,Personal development and career coaching,7,true,true,6,89,4.6,8,8,6,Denver CO,7
+Premier Plumbing Services,Robert Davis,rob@premierplumbing.com,(555) 456-7890,https://premierplumbing.com,local_services,24/7 emergency plumbing services,6,false,true,5,156,4.4,15,6,9,Phoenix AZ,8
+Wealth Management Partners,Amanda Thompson,amanda@wealthpartners.com,(555) 567-8901,https://wealthpartners.com,financial_services,High-net-worth investment management,9,true,false,8,34,4.9,18,9,7,New York NY,9
+Creative Design Studio,Carlos Rodriguez,carlos@creativedesign.com,(555) 678-9012,https://creativedesign.com,agency,Brand identity and web design agency,8,false,true,9,67,4.3,4,6,5,Miami FL,7
+Mountain View Properties,Lisa Anderson,lisa@mountainviewprops.com,(555) 789-0123,https://mountainviewprops.com,real_estate,Commercial and residential real estate,7,true,true,7,98,4.5,10,8,8,Seattle WA,8
+Business Growth Coaching,David Wilson,david@businessgrowth.com,(555) 890-1234,https://businessgrowth.com,coaching,Small business strategy and growth consulting,8,true,true,8,112,4.7,7,9,7,Chicago IL,9
+Elite HVAC Solutions,Maria Garcia,maria@elitehvac.com,(555) 901-2345,https://elitehvac.com,local_services,Commercial HVAC installation and maintenance,5,false,false,4,78,4.1,22,5,8,Dallas TX,6
+Investment Advisory Group,James Brown,james@investmentadvisory.com,(555) 012-3456,https://investmentadvisory.com,financial_services,Retirement and investment planning services,8,true,false,7,45,4.6,14,8,6,Boston MA,8
+Social Media Experts,Emily Taylor,emily@socialmediaexperts.com,(555) 123-4568,https://socialmediaexperts.com,agency,Social media management for restaurants,6,false,true,8,23,4.0,3,5,4,Portland OR,6
+Luxury Home Realty,Thomas Miller,thomas@luxuryhomerealty.com,(555) 234-5679,https://luxuryhomerealty.com,real_estate,High-end residential properties in Florida,9,true,true,9,203,4.9,16,10,9,Miami FL,10
+Executive Leadership Coach,Rachel Green,rachel@executiveleadership.com,(555) 345-6780,https://executiveleadership.com,coaching,C-suite executive coaching and development,9,true,true,8,76,4.8,11,9,8,Atlanta GA,9
+All-Star Landscaping,Kevin Martinez,kevin@allstarlandscaping.com,(555) 456-7891,https://allstarlandscaping.com,local_services,Commercial landscaping and maintenance,4,false,false,3,34,3.8,8,4,6,Las Vegas NV,5
+Retirement Planning Pros,Susan Lee,susan@retirementpros.com,(555) 567-8902,https://retirementpros.com,financial_services,401k and retirement planning specialists,7,true,true,6,67,4.4,9,7,6,San Diego CA,7
+Brand Strategy Agency,Alex Johnson,alex@brandstrategy.com,(555) 678-9013,https://brandstrategy.com,agency,Brand positioning for B2B companies,8,false,false,7,29,4.2,5,7,6,Nashville TN,7
+Commercial Real Estate Co,Patricia White,patricia@commercialrealty.com,(555) 789-0124,https://commercialrealty.com,real_estate,Office buildings and retail space leasing,6,false,true,5,87,4.3,20,7,8,Houston TX,7
+Fitness Business Coach,Mark Thompson,mark@fitnesscoach.com,(555) 890-1235,https://fitnesscoach.com,coaching,Gym and fitness business consulting,7,true,true,7,134,4.5,6,8,7,Los Angeles CA,8
+Premier Auto Repair,Daniel Rodriguez,daniel@premierauto.com,(555) 901-2346,https://premierauto.com,local_services,European luxury car repair specialists,8,true,true,6,145,4.7,12,8,8,Orlando FL,9
+Tax Advisory Services,Michelle Davis,michelle@taxadvisory.com,(555) 012-3457,https://taxadvisory.com,financial_services,Small business tax preparation and planning,6,false,true,5,56,4.2,13,6,5,Minneapolis MN,6
