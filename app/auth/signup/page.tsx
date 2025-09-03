@@ -50,7 +50,26 @@ export default function SignupPage() {
       if (error) throw error
       router.push("/auth/signup-success")
     } catch (error: unknown) {
-      setError(error instanceof Error ? error.message : "An error occurred")
+      if (error instanceof Error) {
+        const errorMessage = error.message.toLowerCase()
+        if (
+          errorMessage.includes("user already registered") ||
+          errorMessage.includes("email already registered") ||
+          errorMessage.includes("already been registered")
+        ) {
+          setError(
+            "This email address is already registered. Please try a different email address or sign in to your existing account.",
+          )
+        } else if (errorMessage.includes("password")) {
+          setError("Password must be at least 6 characters long.")
+        } else if (errorMessage.includes("email")) {
+          setError("Please enter a valid email address.")
+        } else {
+          setError(error.message)
+        }
+      } else {
+        setError("An unexpected error occurred. Please try again.")
+      }
     } finally {
       setIsLoading(false)
     }
@@ -127,7 +146,18 @@ export default function SignupPage() {
                   className="h-11"
                 />
               </div>
-              {error && <div className="text-sm text-red-600 bg-red-50 p-3 rounded-md">{error}</div>}
+              {error && (
+                <div className="text-sm text-red-600 bg-red-50 p-3 rounded-md border border-red-200">
+                  {error}
+                  {error.includes("already registered") && (
+                    <div className="mt-2">
+                      <Link href="/auth/login" className="text-blue-600 hover:text-blue-700 font-medium underline">
+                        Sign in to your existing account
+                      </Link>
+                    </div>
+                  )}
+                </div>
+              )}
               <Button type="submit" className="w-full h-11 bg-blue-600 hover:bg-blue-700" disabled={isLoading}>
                 {isLoading ? "Creating account..." : "Create account"}
               </Button>
