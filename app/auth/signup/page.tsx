@@ -73,7 +73,9 @@ export default function SignupPage() {
         } else if (errorMessage.includes("password")) {
           setError("Password must be at least 6 characters long.")
         } else if (errorMessage.includes("email")) {
-          setError("Please enter a valid email address.")
+          setError(
+            "Email already registered. Please try a different email address or sign in to your existing account.",
+          )
         } else {
           setError(error.message)
         }
