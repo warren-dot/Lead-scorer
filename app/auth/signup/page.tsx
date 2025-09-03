@@ -36,6 +36,16 @@ export default function SignupPage() {
     setError(null)
 
     try {
+      const { data: existingUser } = await supabase.auth.admin.getUserByEmail(email)
+
+      if (existingUser?.user) {
+        setError(
+          "This email address is already registered. Please try a different email address or sign in to your existing account.",
+        )
+        setIsLoading(false)
+        return
+      }
+
       const { error } = await supabase.auth.signUp({
         email,
         password,
